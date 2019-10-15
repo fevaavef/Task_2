@@ -1,0 +1,17 @@
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\ConsoleApp1.exe
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\Feva\Desktop\tasks\2\ConsoleApp1\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
